@@ -1,0 +1,113 @@
+===
+11/20
+Counsellor dashboard
+0. welcome + stats
+1. remove 'client management' side menu (REMOVED)
+2. 'upcoming sessions' need to show sth
+3. action queue
+4. 'calendar' need to connect to G-meet
+5. after schedule a meeting, it should be clickable on calendar view
+6. Training: show how we can use this platform
+7. Psychometrics: need to be done. see the list of referrals
+8. policies
+9. human resource -  we can remove it (REMOVED)
+
+
+Organisation dashboard
+1. welcome: remove them -  attendance chart, client feedback 
+2. remove 'contracts' menu
+3. remove 'service users' menu
+
+=====
+1. admin dashboard
+a. add Psychometrics section to download report
+b. detail of counsellor page - add 'expiry of registration/license'
+
+
+update counsellor signup flow
+
+
+===
+11/27
+- remove the email validation
+- submit referral on organisation dashboard
+11/28 ==
+remove name from referrals table
+===
+1- https://pmc.ncbi.nlm.nih.gov/articles/PMC6878504/ 
+
+https://www.sdqinfo.org/a0.html
+
+
+2- https://www.apa.org/depression-guideline/patient-health-questionnaire.pdf
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1495268/
+
+3- https://adaa.org/sites/default/files/GAD-7_Anxiety-updated_0.pdf
+
+https://www.corc.uk.net/outcome-measures-guidance/directory-of-outcome-measures/generalised-anxiety-disorder-assessment-gad-7/
+
+12/02 ===
+need to add expiry section in counsellor detail page on Admin dashboard
+
+12/03 ===
+Support@amindfulmessage.info (admin)
+Jas@amindfulmessage.info (counsellor)
+Jas.amm@icloud.com (super admin)
+Jamm598101@gmail.com (organisation)
+
+- we don't send email to counsellor when admin accept/reject their profile
+- aws storage to save Identifications
+- who5, phq9, gad7, sdq (strengths and difficulties questionnaire)
+
+12/04 ===
+sdq complete (done)
+
+- Add: (done)
+Psychotherapy
+Mentor
+
+12/05 ===
+SDQ page : gamify/fancy design for young children (DONE)
+11-14: to parents (DONE)
+15-18: self report (DONE)
+
+remove the referral name from feedback item(DONE)
+
+admin should be able to add hourly rate of each counsellor on their profile page.
+
+download referral reports
+
+sdq (DONE)
+
+search for counsellor overview/admin dashboard (DONE)
+
+12/06 ===
+session management for urls
+
+file upload
+
+12/10 ===
+change menu order in admin
+generate pdf
+
+12/12 ===
+org welcome page (DONE)
+1. counsellor welcome page (DONE)
+2. identification files upload
+3. check / confirm assign referral
+
+4. edit appointment (DONE)
+5. assessment send/track complete/resend (DONE)
+6. policies and procedures (DONE)
+
+12/16 ===
+new policies and procedures (DONE)
+UPDATE: package.json
+
+12/17 ===
+Did you manage to sort the downloadable file from super admin- as a back up appointments and invoices etc
+
+12/22 ===
+- fixed Referral reasons showing issue: RelationshipCounselling = Relationship Counselling
+- updated sending assessment emails without any failure

@@ -1,0 +1,167 @@
+https://magical-sutherland.88-208-215-47.plesk.page:8443/
+wallpixils@gmail.com
+3808kVix%
+
+
+DATABASE_URL=postgresql://mindful_owner_v2:eGP7Vvs&qlvne8%9@localhost:5432/mindful_app_v2
+db: mindful_app_v2
+username: mindful_owner_v2
+pwd: eGP7Vvs&qlvne8%9
+
+If that username and pass doesn't work try
+
+
+db: mindful_app_v2
+username: sutherland
+pwd: zshXhBmJrUdq8Zy
+
+Tunnel host: 88.208.215.47
+app.amindfulmessage._ovofa6u2gjp
+HO1O#xh2umgka#l2
+
+https://businessapp.b2b.trustpilot.com/
+jas@jaskaran.co.uk
+nqDGCcJFNEzt8a3
+
+====
+jas@amindfulmessage.info
+terry@midlandsonline.co.uk
+=====
+Jas.amm@icloud.com (super admin)
+Support@amindfulmessage.info (admin)
+Jamm598101@gmail.com (organisation)
+Jas@amindfulmessage.info (counsellor)
+
+
+works start date ===
+Nov/11/2025
+
+Domain ===
+https://amindfulmessage.com/
+app.amindfulmessage.com
+
+privacy: https://amindfulmessage.com/privacy-policy-2/
+terms: https://amindfulmessage.com/terms-and-conditions/
+
+env file data ===
+AUTH_SECRET="SaZT53RvW4p+dALWSXsW4RsKStBJYBtZF13clt8zpIM="
+NEXTAUTH_SECRET="b+HLygKeM8jYQ/enMzmwd8AAeGqC0Rb0A8BQBQKQqP0="
+
+GOOGLE_CLIENT_ID=670549702214-hrp966vkaqp6s8lg3c5i08qbt2iopfv1.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET=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
+
+AWS_REGION=eu-west-1
+AWS_SES_SOURCE_EMAIL=noreply@app.amindfulmessage.com
+
+RESEND_TOKEN=re_YujXpHTS_GTsNcr1vU7zjCowZRv1DfkNR
+EMAIL_PROVIDER=resend
+
+MICROSOFT_TENANT_ID=b0a201bb-3604-4234-8ec8-384078c8941b
+MICROSOFT_CLIENT_SECRET=2TS8Q~volMPAa4nCIrLoGruM-_A5xVRJsHWWXcAA
+MICROSOFT_CLIENT_ID=0178b728-fe79-4613-a62a-994b3bf7af9e
+
+NODE_ENV=development
+NEXTAUTH_URL=http://localhost:3000
+
+
+DATABASE_URL=postgresql://USERNAME:PASSWORD@localhost:5432/DATABASENAME
+
+
+
+jk git + supabase ===
+project name: Mindful-app
+db pwd: Amindful123$
+jo84Na9kvALhBfcv
+
+postgresql://postgres:jo84Na9kvALhBfcv@db.muxfaxezygrjgdxzdcny.supabase.co:5432/postgres
+postgresql://postgres.muxfaxezygrjgdxzdcny:jo84Na9kvALhBfcv@aws-1-eu-central-2.pooler.supabase.com:6543/postgres
+DATABASE_URL=postgresql://postgres.muxfaxezygrjgdxzdcny:jo84Na9kvALhBfcv@aws-1-eu-central-2.pooler.supabase.com:6543/postgres?pgbouncer=true
+
+Plesk Access ===
+https://ac5ff75.online-server.cloud/smb/web/overview/id/35/type/domain
+wallpixils@gmail.com
+gP063yv9$!d224rf
+
+Env on live ===
+RESEND_TOKEN=re_VaPt5zfn_A2BHcfWbZYVAH6Y1ywRdmEXd
+EMAIL_PROVIDER=resend
+DATABASE_URL=postgresql://ac5ff75:zshXhBmJrUdq8Zy@localhost:5432/mindful_app_v2
+AUTH_URL=https://app.amindfulmessage.com
+AUTH_SECRET="s8/vskNdht/TeOTY2uLMpy7/CjC95onTfbsSB+LuA4A=" # Added by `npx auth`. Read more: https://cli.authjs.dev
+NEXTAUTH_SECRET="Hfq/0n9QuXU/mxeS5QIntDnpTl+Wrd8jMKC5xR0VoNM=" # Added by `npx auth`. Read more: https://cli.authjs.dev
+AUTH_GOOGLE_ID=670549702214-hrp966vkaqp6s8lg3c5i08qbt2iopfv1.apps.googleusercontent.com
+AUTH_GOOGLE_SECRET=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
+AWS_ACCESS_KEY_ID=123
+AWS_SECRET_ACCESS_KEY=123
+EMAIL_HOST=13
+EMAIL_USER=123
+EMAIL_PASS=123
+MICROSOFT_TENANT_ID=b0a201bb-3604-4234-8ec8-384078c8941b
+MICROSOFT_CLIENT_SECRET=2TS8Q~volMPAa4nCIrLoGruM-_A5xVRJsHWWXcAA
+MICROSOFT_CLIENT_ID=0178b728-fe79-4613-a62a-994b3bf7af9e
+NODE_ENV=production
+GOOGLE_CLIENT_ID=670549702214-hrp966vkaqp6s8lg3c5i08qbt2iopfv1.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET=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
+
+env.local on live ===
+AUTH_URL=https://app.amindfulmessage.com
+AUTH_SECRET="s8/vskNdht/TeOTY2uLMpy7/CjC95onTfbsSB+LuA4A="
+NEXTAUTH_SECRET="Hfq/0n9QuXU/mxeS5QIntDnpTl+Wrd8jMKC5xR0VoNM="
+
+
+live db access on pgAdmin windows desktop ===
+1. Connection tab
+Host name/address: localhost
+Port: 5432
+Maintenance database: mindful_app_v2
+Username: ac5ff75
+Password: zshXhBmJrUdq8Zy
+
+2. SSH tunnel
+Use SSH tunneling: ON
+Tunnel host: 77.68.31.192
+Tunnel port: 22
+Username: root
+Authentication: Password
+Password: *@_#a$W9Z6
+
+===
+https://app.amindfulmessage.com
+dimi@amindfulmessage.info
+pwd: jo84Na9kvALhBfcv
+
+// "prisma:deploy": "prisma migrate deploy",
+// "prisma:push": "prisma db push",
+// "prisma:generate": "prisma generate",
+// "prisma:migrate": "prisma migrate dev",
+// "prisma:reset": "prisma migrate reset",
+// "prisma:push-accept-data-loss": "prisma db push --accept-data-loss",
+
+"typecheck": "tsc --noEmit",
+    "prisma:deploy": "prisma migrate deploy",
+    "prisma:rollback": "prisma migrate resolve --rolled-back 000_initial",
+    "prisma:mark-applied": "prisma migrate resolve --applied 000_initial"
+	
+	
+n.james2@aston.ac.uk
+
+
+Amindful123!
+
+INSERT INTO "AdminUsers" (id, email, role, "isActive", "createdAt", "updatedAt")
+VALUES (
+  gen_random_uuid(),
+  'jas.amm@icloud.com',
+  'SUPER_ADMIN',
+  true,
+  NOW(),
+  NOW()
+);
+
+
+Anisha Sood	​​​​
+HR Documentation Consultant
+Croner
+Phone: 	
+0844 892 3931
+Website: https://croner.co.uk/

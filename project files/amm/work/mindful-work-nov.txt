@@ -1,0 +1,95 @@
+What's Missing from Current Platform (Suggestions to Add):
+High Priority:
+Case Notes / Session Notes
+	Where counsellors document session content
+	Link to appointments and referrals
+	Template-based notes (SOAP, DAP, etc.)
+	Secure, GDPR-compliant storage
+Referral Progress Tracking
+	Visual timeline of referral journey
+	Goals setting and progress monitoring
+	Treatment plan documentation
+	Outcome measures over time
+Resources Library
+	Downloadable worksheets for clients
+	Therapeutic exercises
+	Crisis helpline numbers
+	Self-help materials to share with referrals
+Supervision & Support
+	Request supervision sessions
+	Track CPD (Continuing Professional Development) hours
+	Peer consultation scheduling
+Reports & Analytics
+	Session attendance rates
+	Outcomes tracking (pre/post assessments)
+	Caseload overview
+	Monthly activity reports for supervision
+	
+	
+Medium Priority:
+Secure Messaging
+	HIPAA/GDPR compliant messaging with referrals
+	Message templates
+	Read receipts
+	File sharing (within limits)
+Risk Assessment Tools
+	Suicide risk assessment
+	Safety planning
+	Risk flagging system
+	Crisis protocols
+Client Worksheets & Homework
+	Assign therapeutic homework
+	Track completion
+	Library of evidence-based worksheets
+Waiting List Management
+	See available slots
+	Waitlist prioritization
+	Auto-matching to available slots
+	
+	
+Nice to Have:
+Video Session Integration
+	If platform supports telehealth
+	Recording consent management
+	Session recording (if permitted)
+Group Session Management
+	If offering group therapy
+	Attendance tracking
+	Group notes
+Clinical Supervision Portal
+	Submit cases for supervision
+	Track supervision requirements
+	Record supervision notes
+
+
+/training
+  /platform-basics
+    - getting-started
+    - dashboard-navigation
+    - profile-setup
+  /clinical-skills
+    - referral-management
+    - session-planning
+    - documentation
+    - crisis-intervention
+  /assessment-tools
+    - psychometrics-intro
+    - swls-guide
+    - who5-guide
+    - interpretation
+  /appointment-management
+    - scheduling
+    - calendar
+    - cancellations
+  /communication-ethics
+    - professional-standards
+    - boundaries
+    - cultural-competency
+  /compliance-safety
+    - gdpr
+    - confidentiality
+    - safeguarding
+  /professional-development
+    - supervision
+    - cpd
+    - self-care
